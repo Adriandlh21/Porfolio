@@ -1,3 +1,5 @@
+#Una ventana donde puedes organizar tus tareas pendientes en un calendario
+
 from tkinter import messagebox
 from tkcalendar import Calendar
 import tkinter as tk
